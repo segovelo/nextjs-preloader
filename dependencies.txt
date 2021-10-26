@@ -1,0 +1,9 @@
+Use command line to create NextJS web app:
+npx create-next-app [name-of-your-app]
+
+To run de web app:
+npm dev run
+# or
+yarn dev
+
+npm install --save styled-components
